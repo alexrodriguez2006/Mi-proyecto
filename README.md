@@ -1,4 +1,4 @@
-# Mi-proyecto
+#Sistema Domótico Seguro con MQTT + Home Assistant
 Resumen en Español
 
 El proyecto “Sistema Domótico Seguro con MQTT + Home Assistant” consiste en el diseño e implementación de una maqueta de vivienda inteligente que integra sensores, actuadores y un sistema de control centralizado. Su objetivo es simular un entorno domótico capaz de monitorizar la temperatura y la humedad, controlar una luz y un ventilador, y enviar alertas automáticas cuando la temperatura supera un umbral establecido.
